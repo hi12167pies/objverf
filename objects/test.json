@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "variable": "value",
+    "wrongCase": {
+      "type": "inline",
+      "execute": "return"
+    }
+  },
+  "data": {
+    "name": "string minlen:3 maxlen:5 or:a|\"b c\"",
+    "arr": "array",
+    "obj": "object",
+    "num": "number",
+    "someNestedObject": {
+      "someString": "string",
+      "someNumber": "number"
+    }
+  }
+}
